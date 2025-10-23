@@ -2,7 +2,7 @@
 
 The Python implementation for the experiments described in the paper *"Nearly Minimax Optimal Regret for Multinomial Logistic Bandit."*
 
----
+
 
 ## Files
 
@@ -16,7 +16,7 @@ We first introduce the necessary files.
   * `main_non_uniform.py` is the code for running the simulation experiments under non-uniform rewards.
   * `models_non_uniform.py` contains algorithms for non-uniform rewards.
 
----
+
 
 ## Requirements
 
@@ -29,7 +29,7 @@ We list the required dependencies.
 * scipy==1.7.3
 * PuLP==2.8.0
 
----
+
 
 ## Experiments
 
