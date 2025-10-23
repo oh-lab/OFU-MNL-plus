@@ -16,7 +16,7 @@ We first introduce the necessary files.
 
 ## Requirements
 
-We and list the required dependencies.
+We list the required dependencies.
 
 * matplotlib==3.5.2
 * numpy==1.20.1
