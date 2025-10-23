@@ -10,7 +10,7 @@ We first introduce the necessary files.
   * `main_uniform.py` is the code for executing the simulation environments under uniform rewards.
   * `models_uniform.py` contains algorithms for uniform rewards.
 
-* **bandits**: Implementations for the non-uniform reward setting.
+* **Nonuniform Rewards**: Implementations for the non-uniform reward setting.
   * `main_non_uniform.py` is the code for running the simulation experiments under non-uniform rewards.
   * `models_non_uniform.py` contains algorithms for non-uniform rewards.
 
